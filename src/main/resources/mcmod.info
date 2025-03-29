@@ -1,0 +1,16 @@
+[
+{
+  "modid": "stonebrick",
+  "name": "Stone Bricks",
+  "description": "Adds missing stone brick recipes for 1.7.10.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "bidibits.net",
+  "updateUrl": "bidibits.net",
+  "authorList": ["hi_skittles"],
+  "credits": ":3",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
